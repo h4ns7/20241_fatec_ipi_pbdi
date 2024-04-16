@@ -1,5 +1,5 @@
 
-# Programação para baanco de dados I
+# Programação para banco de dados I
 
 Atividades didática para fins de aprendizagem.
 
